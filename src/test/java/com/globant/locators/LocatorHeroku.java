@@ -4,6 +4,7 @@ public class LocatorHeroku {
 
     //Por cuestiones del taller daré los valores donde declaró las variables.
     // Ya se que no es buena pratica hacerlo así, se deberia dar el valor en el constructor.
+    // Vale aclarar que todos los string son locator Bycss
     private String elemento1 = ".container p:nth-child(3)";
     private String elemento2 = "address a:nth-child(1)[css='1']";
     private String elemento3 = "ul li:nth-child(3)";
